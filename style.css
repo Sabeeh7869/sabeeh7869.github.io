@@ -23,7 +23,7 @@
   padding: 15px;
 }
 .menu a:hover {
-  border-color: #1f50ba;
+  border-bottom: 3px solid #1f50ba;
 }
 .youtube a {
   float: right;
@@ -66,4 +66,7 @@
   padding: 20px;
   font-size: 17pt;
   letter-spacing: 2px;
+}
+.atitle {
+  text-align: center;
 }
